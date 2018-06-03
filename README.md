@@ -7,7 +7,7 @@ Ever wanted an easy way to play fun little melodies and songs on an Arduino, wit
 
 **SerialMusic just takes a few steps to use:**
 1. Flash the Arduino with the sketch.
-2. Connect a speaker to Arduino **digital pin 3** and **ground**.
+2. Connect a speaker to Arduino **digital pin 9** and **ground**.
 3. Run the provided Python script "Note Server"!
 
 SerialMusic comes with a built in demo ("Your Reality" from *Doki Doki Literature Club!*) accessible from the Note Server's **demo** command, but also comes with a few example external note files. And with a few minutes work, you can make your own note files due to the *extremely simple* syntax:
